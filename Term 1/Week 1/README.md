@@ -23,31 +23,56 @@ _List the files, or link to them. Notebook exports, screenshots, scripts._
 > Your tool and your SDG for this hackathon are announced at the **start of Friday's class**.
 > Write them down here once you know them.
 
-**Project title:**
+**Project title:** Knowledge Runner
 
-**My pair partner:**
+**My pair partner:** Alex Wrobel
 
-**Tool we had to use:**
+**Tool we had to use:** Bolt.new
 
-**SDG we had to address:**
+**SDG we had to address:** SDG 4- Quality Education
 
 **What problem does it solve, and for whom?**
-_Name a real, specific user. "Everyone" is not a user._
-
+Problem: Traditional revision can feel repetitive and boring, making it difficult for students to stay motivated and actively practise what they have learned.
+For whom: High-school students
+Students who want more fun and interactive ways to study
+Students who study independently
+Students preparing for tests and exams
+Students who want to practise and improve their knowledge through playing
 **What did you build?**
-_Two or three sentences. What can a user actually do with it?_
+A 3D quiz game and studying tool.
+Answers questions in a fun way.
+
 
 **Link to the live thing (if any):**
-_Deployed URL, workflow export, video demo - whatever proves it works._
+https://knowledgerunner.alexwr.cc/
 
 **How do I run it?**
-_Short instructions so someone else can start it._
+Enter the subject, click start, wait for the questions to generate.
+Then control your character using arrow keys.
+Enter the door with the correct answer.
+
 
 **Who did what?**
-_Be honest about the split of work between you and your partner._
+Together:
+Came up with the game concept and target audience
+Planned the features and learning experience
+Researched the problem and user needs
+Tested the game and made improvements
+My role:
+Worked on the research and presentation
+Helped develop the game concept and content
+Tested the game and provided feedback
+My partner’s role:
+Worked on the technical development and coding
+Implemented the 3D game and AI features
+Tested and fixed technical issues
+
+
+
 
 **Ethical reflection - what are the risks of your tool? Who could it harm?**
-_Every hackathon requires this. One honest paragraph beats three vague ones._
+The biggest risk is trust: students using it as their only source for a topic could be mis-taught by an incorrect or misleading explanation, because the AI is confident even when it is wrong and there is no teacher in the loop to catch it. It could also encourage a shortcut habit - relying on generated quizzes instead of real understanding, which is exactly what quality education (SDG 4) is meant to build. The people most at risk are students who believe whatever it says uncritically and either mislearn a fact or let it substitute for study. Mitigation: clearly label the answers as AI-generated, keep the quizzes short, and present them as practice rather than a source of truth.
+
 
 ### Checklist
 - [ ] Prototype code (or export / workflow file) is in `hackathon/`
